@@ -227,6 +227,13 @@ table {
   max-width: 100%;
   background-color: transparent;
 }
+
+tbody {
+  display: block;
+  border: solid 2px black;
+  border-collapse: separate;
+  border-spacing: 4px;
+}
 /* th {
   color: #030303;
   padding: 0.66em 1em;
